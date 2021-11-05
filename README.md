@@ -15,8 +15,5 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 Test 2021-11-04 8:06pm
 Test 2021-11-05 8:10pm
 Test 2021-11-05 8:13pm
-<<<<<<< HEAD
 Test 2021-11-05 8:21pm from vs editor
-=======
 Change from gihub 2021-11-05 8:18pm
->>>>>>> de14fcc046aa1e00f49a6cb34d93dac6d3b8cfe0
