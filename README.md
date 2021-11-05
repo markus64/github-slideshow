@@ -12,9 +12,4 @@ I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
 
-Test 2021-11-04 8:06pm
-Test 2021-11-05 8:10pm
-Test 2021-11-05 8:13pm
-Test 2021-11-05 8:21pm from vs editor
-Change from gihub 2021-11-05 8:18pm
-Here's another change on github 2021-11-04 8:29pm
+Test 2021-11-04 8:35pm
